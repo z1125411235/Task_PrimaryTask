@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third Person Character.Plugins", "Third Person Character.Plugins.csproj", "{AA1BD213-A1D7-9E2C-3F2F-822D925CB318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third Person Character", "Third Person Character.csproj", "{11052BA9-953D-106F-C70D-87A4AFD5BCDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third Person Character.Editor.Plugins", "Third Person Character.Editor.Plugins.csproj", "{72D1F775-BE28-A12D-8F0A-ECD884E6D21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1BD213-A1D7-9E2C-3F2F-822D925CB318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1BD213-A1D7-9E2C-3F2F-822D925CB318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1BD213-A1D7-9E2C-3F2F-822D925CB318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1BD213-A1D7-9E2C-3F2F-822D925CB318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11052BA9-953D-106F-C70D-87A4AFD5BCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11052BA9-953D-106F-C70D-87A4AFD5BCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11052BA9-953D-106F-C70D-87A4AFD5BCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11052BA9-953D-106F-C70D-87A4AFD5BCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D1F775-BE28-A12D-8F0A-ECD884E6D21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D1F775-BE28-A12D-8F0A-ECD884E6D21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D1F775-BE28-A12D-8F0A-ECD884E6D21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D1F775-BE28-A12D-8F0A-ECD884E6D21A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
